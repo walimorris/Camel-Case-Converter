@@ -1,2 +1,2 @@
 # Camel-Case-Converter
-A simple guy that converts sentence to camel case.
+A simple gui that converts sentence to camel case.
